@@ -34,10 +34,6 @@
 
 ```
 2025_Smart_Agriculture_AI_Competition_preliminary/
-├── data/               
-│   ├── train_X.csv
-│   ├── test_X.csv
-│   └── train_y.csv
 ├── notebooks/           
 │   ├── inference.ipynb
 │   └── train-ml.ipynb
